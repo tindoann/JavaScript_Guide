@@ -1,0 +1,1 @@
+// Create an array and assign it values.var colors; colors = ['white', 'black', 'custom'];// Show the first item from the array.var el = document.getElementById('colors');el.textContent = colors[0];// We create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array). 
